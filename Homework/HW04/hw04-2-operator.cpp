@@ -11,7 +11,7 @@ int main() {
 
     //TODO: #12 Complete operator, and display all operator output. (and fix all bugs.)
 
-    printf( "a = %d , b = %d \n", a, b ) ;
+    printf( "a = %d, b = %d \n", a, b ) ;
     printf( "a + b = %d\n", a + b ) ;
     printf( "a - b = %d\n", a - b ) ;
     printf( "a b = %d\n", a * b ) ;
